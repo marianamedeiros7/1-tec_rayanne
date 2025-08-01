@@ -1,34 +1,40 @@
-body{
-background-color: beige;
-color: rgb(55, 35, 3);
-font-family: "Manufacturing Consent", system-ui;
+
+
+
+
+body {
+   background-color: rgb(58, 15, 15);
+   color:rgb(164, 84, 10) ;
+ font-family: "Bitter", serif; 
+
 
 }
+
 
 header{
-    font-family:"Manufacturing Consent", system-ui;
-    font-size: 75px;
-    border-bottom: double 5px rgb(53, 27, 3);
-    padding: 50px;
-    text-align: center;
+   font-family: "Bitter", serif;
+   font-size: 40px ;
+   border-bottom: double 5px rgb(0, 0, 0) ;
+   padding: 50px;
+   text-align: center;
 }
-hl{
-    font-size: 30px;
+h1{
+     font: size 30px;;
+
+
 }
 p{
-    font-size: 2px;
+   font-size: 30px;
 }
 section {
     display: flex;
     justify-content: center;
-    background-color: rgb(165, 93, 42);
-
+    background-color:rgb(238, 207, 120);
 }
-
-.texto {
-    margin-right: 5%;
+.sorvete{
+   margin-right:5%
 }
 img{
-    width: 300px;
-    height: 200px;
+   width: 300px;
+   height: 200px;
 }
